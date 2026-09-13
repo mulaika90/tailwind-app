@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/tailwind/', // Yeh line lazmi add karni hai
+  base: '/tailwind-app/', // Yeh line lazmi add karni hai
 })
